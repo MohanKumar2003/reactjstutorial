@@ -6,7 +6,7 @@ const FunctionalComponent = () => {
     return (
         <>
             <center>
-                <h2>Welcome to {name}</h2>
+                <h1>Welcome to {name}</h1>
             </center>
         </>
     )
